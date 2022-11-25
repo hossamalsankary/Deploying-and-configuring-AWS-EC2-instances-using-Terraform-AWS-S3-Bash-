@@ -1,5 +1,3 @@
-# Deploying-and-configuring-AWS-instances-using-Terraform
-# Deploying-and-configuring-AWS-instances-using-Terraform
-# Deploying-and-configuring-AWS-instances-using-Terraform
-# Deploying-and-configuring-AWS-instances-using-Terraform
-# Deploying-and-configuring-AWS-instances-using-Terraform
+#### Scenario :
+Using terraform to deploy web-server instances on AWS
+configuring this using terraform and deploying deploy_commerce_app.sh 
